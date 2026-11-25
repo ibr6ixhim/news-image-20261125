@@ -1,0 +1,28 @@
+{
+  "date_line": "WEDNESDAY 25 NOVEMBER 2026",
+  "masthead": "THE WORLD TODAY",
+  "_note": "PLACEHOLDERS ONLY. The agent must replace every story with verified news dated 25 Nov 2026 (UTC). Remove this _note when done.",
+  "lead": {
+    "region": "REGION",
+    "headline": "REPLACE: the single biggest verified story of the day",
+    "summary": "REPLACE: one or two factual sentences. No speculation, no invented figures or quotes.",
+    "source": "Source"
+  },
+  "secondary": [
+    {"region": "REGION", "headline": "REPLACE: second biggest verified story", "summary": "REPLACE: one factual sentence.", "source": "Source"},
+    {"region": "REGION", "headline": "REPLACE: third biggest verified story", "summary": "REPLACE: one factual sentence.", "source": "Source"}
+  ],
+  "grid": [
+    {"region": "AFRICA", "headline": "REPLACE short headline", "source": "Source"},
+    {"region": "ASIA", "headline": "REPLACE short headline", "source": "Source"},
+    {"region": "EUROPE", "headline": "REPLACE short headline", "source": "Source"},
+    {"region": "MIDDLE EAST", "headline": "REPLACE short headline", "source": "Source"},
+    {"region": "N. AMERICA", "headline": "REPLACE short headline", "source": "Source"},
+    {"region": "S. AMERICA", "headline": "REPLACE short headline", "source": "Source"},
+    {"region": "OCEANIA", "headline": "REPLACE short headline", "source": "Source"},
+    {"region": "SCIENCE", "headline": "REPLACE short headline", "source": "Source"},
+    {"region": "ECONOMY", "headline": "REPLACE short headline", "source": "Source"},
+    {"region": "SPORT", "headline": "REPLACE short headline", "source": "Source"}
+  ],
+  "footer": "Compiled from verified reports dated 25 Nov 2026 (UTC)"
+}
